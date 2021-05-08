@@ -1,6 +1,6 @@
 # DeLorean Goodies
 
-These are not my creation, but a generous contribution to the community member Brandon Fayette (https://www.facebook.com/brandon.fayette):
+These are not my creation, but a generous contribution by community member Brandon Fayette (https://www.facebook.com/brandon.fayette):
 
 Hey all,
 I'm releasing the tail light design into the wild for you all to do what you will with them.  This design was built for a custom led board but I've added pressure clips that hold and mount original taillight boards to the system.  I DO have a version that is a recreation of the original taillight buckets and reflector but its not very cost effective to use in this scenario.
