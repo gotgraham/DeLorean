@@ -1,4 +1,4 @@
-# DeLorean Goodies
+# DeLorean 3D Printed Goodies
 
 These are not my creation, but a generous contribution by community member Brandon Fayette (https://www.facebook.com/brandon.fayette):
 
